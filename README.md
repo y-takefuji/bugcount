@@ -27,11 +27,11 @@ or
 
 You must download pillbug.png file:
 
-https://github.com/ytakefuji/counting-for-entomologists/raw/main/pillbug.png
+https://github.com/y-takefuji/counting-for-entomologists/raw/main/pillbug.png
 
 $ bugcount pillbug.png
 
-<img src="https://github.com/ytakefuji/counting-for-entomologists/raw/main/r75.png" width=270 height=275>
+<img src="https://github.com/y-takefuji/counting-for-entomologists/raw/main/r75.png" width=270 height=275>
 
 $ bugcount filename Canny-coeffient
 
@@ -41,11 +41,11 @@ or
 
 $ bugcount pillbug.png 10
 
-<img src="https://github.com/ytakefuji/counting-for-entomologists/raw/main/r10.png" width=270 height=275>
+<img src="https://github.com/y-takefuji/counting-for-entomologists/raw/main/r10.png" width=270 height=275>
 
 $ bugcount pillbug.png 100
 
-<img src="https://github.com/ytakefuji/counting-for-entomologists/raw/main/r100.png" width=270 height=275>
+<img src="https://github.com/y-takefuji/counting-for-entomologists/raw/main/r100.png" width=270 height=275>
 
 pillbug.png file is a target image for counting the number of bugs. 
 
@@ -108,7 +108,7 @@ the number of insect corpses on a plane for entomologists.
 
 In order to run pillbug_count.py, you should see the following repository 
 for installing the necessary libraries:
-<a href="https://github.com/ytakefuji/python-novice"> How to install and use libraries in Python for novice users</a>
+<a href="https://github.com/y-takefuji/python-novice"> How to install and use libraries in Python for novice users</a>
 
 1. To install an executable Python environment on your operating system 
    (Windows, Mac, Linux), 
@@ -126,19 +126,19 @@ for installing the necessary libraries:
 4. To run pillbug_count.py, type the following command for testing:
    $ python pillbug_count.py pillbug.png
 </pre>
-<img src='https://github.com/ytakefuji/counting-for-entomologists/raw/main/result1.png' height=246 width=1031>
+<img src='https://github.com/y-takefuji/counting-for-entomologists/raw/main/result1.png' height=246 width=1031>
 
-<img src='https://github.com/ytakefuji/counting-for-entomologists/raw/main/result2.png' height=380 width=366>
+<img src='https://github.com/y-takefuji/counting-for-entomologists/raw/main/result2.png' height=380 width=366>
 Result: 53 objects (blobs) are found in pillbug.png file.
 <pre>
 Use flies.png for further testing.
 $ python pillbug_count.py flies.png
 </pre>
-<img src='https://github.com/ytakefuji/counting-for-entomologists/raw/main/flies.png' height=200 width=300>
-<img src='https://github.com/ytakefuji/counting-for-entomologists/raw/main/gray.png' height=200 width=300>
-<img src='https://github.com/ytakefuji/counting-for-entomologists/raw/main/blur.png' height=200 width=300>
-<img src='https://github.com/ytakefuji/counting-for-entomologists/raw/main/edges.png' height=200 width=300>
-<img src='https://github.com/ytakefuji/counting-for-entomologists/raw/main/r.png' height=200 width=300>
+<img src='https://github.com/y-takefuji/counting-for-entomologists/raw/main/flies.png' height=200 width=300>
+<img src='https://github.com/y-takefuji/counting-for-entomologists/raw/main/gray.png' height=200 width=300>
+<img src='https://github.com/y-takefuji/counting-for-entomologists/raw/main/blur.png' height=200 width=300>
+<img src='https://github.com/y-takefuji/counting-for-entomologists/raw/main/edges.png' height=200 width=300>
+<img src='https://github.com/y-takefuji/counting-for-entomologists/raw/main/r.png' height=200 width=300>
 
 
 
@@ -225,11 +225,11 @@ aggregated cell masses and automate cell counting.
 
 </pre>
 
-<img src='https://github.com/ytakefuji/counting-for-entomologists/raw/main/cells.png' height=300 width=300>
+<img src='https://github.com/y-takefuji/counting-for-entomologists/raw/main/cells.png' height=300 width=300>
 Image source: https://bitesizebio.com/30184/quick-easy-automatic-cell-counting/
 
 <pre>
 $ bugcount cells.png
 
 </pre>
-<img src='https://github.com/ytakefuji/counting-for-entomologists/raw/main/r-cells.png' height=300 width=300>
+<img src='https://github.com/y-takefuji/counting-for-entomologists/raw/main/r-cells.png' height=300 width=300>
