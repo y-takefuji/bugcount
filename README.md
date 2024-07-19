@@ -3,7 +3,7 @@
 
 DOI: https://doi.org/10.24433/CO.4823110.v1
 
-This is under review.
+Takefuji Y. PyPI: an internet-enabled learning tool to boost learner motivation for crop protection. Journal of Natural Pesticide Research. https://doi.org/10.1016/j.napere.2024.100089
 
 bugcount is a useful tool for entomologists to count the number of bugs.
 
